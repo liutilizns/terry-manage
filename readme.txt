@@ -1,0 +1,1 @@
+this is a manage software mainly writted by liutili, use vue, maybe react next time.
